@@ -61,12 +61,11 @@
 
 
 ---
-
 # 开源项目和作品
 自己没事写了一个博客系统用来练练手，用的是mongodb数据库
 域名现在没备案不能用了www.meihaifeng.cn 
 http://115.159.110.67:6008
-
+## 公众号开发(九两茶叶)公众号所有的后台服务搭建与开发dubbo+zookeeper+redis（缓存）+mysql+ningx
 ## 开源项目
 
  - https://github.com/JackMeiiii/mjoyblog.git : 个人博客系统，仿farbox，界面清爽干净。
