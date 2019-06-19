@@ -81,6 +81,7 @@
 ---
 # 开源项目和作品
 ## 开源项目
+- web端地址 http://www.roombear.com.cn/ 以及微信小程序体验版
 - https://gitee.com/meihf_space/roombear.git
   爬各小说网站文章+写作功能+搜索功能+播放音乐+添加标签之后可以在微信公众号中同步（因为是个人账号前提得在小程序上登录并绑定手机号，然后在web端用手机号码登录）
 - https://gitee.com/meihf_space/tea-web.git
