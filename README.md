@@ -89,20 +89,6 @@
 
 - https://github.com/JackMeiiii/mjoyblog.git : 个人博客系统，仿farbox，界面清爽干净。
 
-
-# 技能清单
-
-以下均为我熟练使用的技能
-
-- Web开发工具：IDEA/Eclipse
-- Linux系统:Centos/Ubuntu
-- Web框架：SpringMVC/Spring/Dubbo/Zookeeper
-- 数据库相关：关系数据库MySQL/PgSQL 非关系数据库Redis/Mongodb
-- ORM框架:Mybatis/Ibatis
-- 版本管理、项目管理及自动构建工具：Svn/Git/Maven
-- 反向代理：nginx
-- 前端框架：Bootstrap/pure
-
 ---
 
 # 致谢
