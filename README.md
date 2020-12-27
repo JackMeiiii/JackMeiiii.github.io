@@ -1,7 +1,7 @@
 # 联系方式
 
 - __手机__：17310141320
-- __Email__：jackmeihaifeng@gmail.com
+- __Email__：942926957@qq.com
 - __QQ/微信号__：942926957
 
 ---
