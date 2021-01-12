@@ -39,8 +39,8 @@
 
 #### 测试工具项目
 - 项目简介: 是一款为了解决测试环境调用其他dubbo服务无法联调、以及更快捷插入测试数据的测试工具
-- 工作职责：使用Groovy语言，结合DUBBO的泛化调用以及自定义Invoker实现可以不同环境选择dubbo服务的工具
-- 技术栈：SpringBoot + Dubbo + Zookeeper + Apollo + Groovy + Mybatis-Plus + Mysql
+- 工作职责：结合DUBBO的泛化调用以及自定义Invoker实现可以不同环境选择dubbo服务的工具
+- 技术栈：SpringBoot + Dubbo + Zookeeper + Apollo + Mybatis-Plus + Mysql
 
 ## 杭州东导数据科技有限公司（ 2017年8月 ~ 2018年3月 ）
 
