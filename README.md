@@ -84,7 +84,7 @@
 - https://gitee.com/meihf_space/roombear.git
   爬各小说网站文章+写作功能+搜索功能+播放音乐+添加标签之后可以在微信公众号中同步（因为是个人账号前提得在小程序上登录并绑定手机号，然后在web端用手机号码登录）
 - https://gitee.com/meihf_space/tea-web.git
-  公众号开发(九两茶叶)公众号所有的后台服务搭建与开发dubbo+zookeeper+redis（缓存）+mysql+ningx
+  公众号开发(九两茶叶)公众号所有的后台服务搭建与开发dubbo+zookeeper+redis（缓存）+mysql+nginx
 
 - https://github.com/JackMeiiii/mjoyblog.git : 个人博客系统，仿farbox，界面清爽干净。
 
