@@ -78,17 +78,5 @@
 - 项目简介: 为管控平台提供服务
 - 工作职责：后台环境搭建以及logo、菜单、模板选择、景区选择部分。
 
----
-# 开源项目和作品
-## 开源项目
-- https://gitee.com/meihf_space/roombear.git
-  爬各小说网站文章+写作功能+搜索功能+播放音乐+添加标签之后可以在微信公众号中同步（因为是个人账号前提得在小程序上登录并绑定手机号，然后在web端用手机号码登录）
-- https://gitee.com/meihf_space/tea-web.git
-  公众号开发(九两茶叶)公众号所有的后台服务搭建与开发dubbo+zookeeper+redis（缓存）+mysql+nginx
-
-- https://github.com/JackMeiiii/mjoyblog.git : 个人博客系统，仿farbox，界面清爽干净。
-
----
-
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
